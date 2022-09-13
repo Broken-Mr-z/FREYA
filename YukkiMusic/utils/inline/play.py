@@ -47,7 +47,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/Musical_Dream_xD"
             ),
             InlineKeyboardButton(
                 text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
@@ -72,7 +72,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/Musical_Dream_xD"
             ),
             InlineKeyboardButton(
                 text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
@@ -104,7 +104,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/Musical_Dream_xD"
             ),
             InlineKeyboardButton(
                 text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
@@ -129,7 +129,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/Musical_Dream_xD"
             ),
             InlineKeyboardButton(
                 text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
@@ -162,7 +162,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],    
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/Musical_Dream_xD"
             ),
             InlineKeyboardButton(
                 text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
@@ -191,7 +191,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         ],        
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/Musical_Dream_xD"
             ),
             InlineKeyboardButton(
                 text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
@@ -219,7 +219,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/Musical_Dream_xD"
             ),
             InlineKeyboardButton(
                 text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
