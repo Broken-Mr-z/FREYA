@@ -55,7 +55,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="Donation", url="https://t.me/Let_me_know_U_X"
             ), 
         ],
     ]
@@ -80,7 +80,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="Donation", url="https://t.me/Let_me_know_U_X"
             ),
         ],
     ]
@@ -112,7 +112,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="Donation", url="https://t.me/Let_me_know_U_X"
             ),
         ],
     ]
@@ -137,7 +137,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="Donation", url="https://t.me/Let_me_know_U_X"
             ),
         ],
     ]
@@ -170,7 +170,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="Donation", url="https://t.me/Let_me_know_U_X"
             ),
         ],  
     ]   
@@ -199,7 +199,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="Donation", url="https://t.me/Let_me_know_U_X"
             ),
         ],
     ]
@@ -227,7 +227,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="Donation", url="https://t.me/Let_me_know_U_X"
             ),
         ],
     ]
